@@ -1,6 +1,8 @@
 # Linear Power Booster | Guitar Pedal
 Linear guitar signal booster with BJT amplification, true bypass switching, and power input protection.
 
+![image](https://github.com/user-attachments/assets/b890c126-4d2c-4b30-824b-5c6aebb7c321)
+
 [![View PCB in KiCanvas](https://img.shields.io/badge/VIEW%20PCB-KiCanvas-blue?logo=github)](https://kicanvas.org/?github=https://github.com/robertengineerr/linear_power_booster/blob/main/linear_power_booster.kicad_pcb)
 
 [![View Schematic in KiCanvas](https://img.shields.io/badge/VIEW%20Schematic-KiCanvas-blue?logo=github)](https://kicanvas.org/?github=https://github.com/robertengineerr/linear_power_booster/blob/main/linear_power_booster.kicad_sch)
