@@ -1,8 +1,6 @@
 # linear_power_booster
 Linear guitar signal booster with BJT amplification, true bypass switching, and power input protection.
 
-[![View PCB in KiCanvas]([https://img.shields.io/badge/VIEW%20PCB-KiCanvas-blue?logo=github)](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Frobertengineerr%2Flinear_power_booster%2Fblob%2Fmain%2Flinear_power_booster.kicad_pcb](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Frobertengineerr%2Flinear_power_booster))
-
 BJT Amplifier
 This is the core amplification stage. A single NPN BJT (Q1) amplifies the input signal from a guitar or similar audio source. Capacitors C1 and C2 act as AC coupling (DC-blocking) caps, allowing only the AC signal through. R1 and R2 form a voltage divider to bias the base of Q1, while R3 sets emitter current for gain stability. The amplified signal is output through C2, with a variable resistor (RV1) used to control output volume. This design provides a clean linear boost to the input signal.
 
